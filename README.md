@@ -1,9 +1,9 @@
 # Keyed-Text-Watermarking
 
-# Setup Instructions
+## Setup Instructions
 
-# How to Run
+## How to Run
 
-# Data Sources
+## Data Sources
 
-# Contribution Statement
+## Contribution Statement
