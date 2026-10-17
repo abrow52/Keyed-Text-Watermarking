@@ -1,8 +1,9 @@
 # Keyed-Text-Watermarking
 
-## Setup Instructions
-
 ## How to Run
+Terminal Commands
+- To watermark the evaluation passages: python3 -m scripts.watermark
+- To run the detector on the unmarked passages: python3 -m scripts.detect
 
 ## Data Sources
 ### Calibration Passages
@@ -39,3 +40,4 @@ Grimm's Fairy Tales
 - https://www.gutenberg.org/cache/epub/2591/pg2591-images.html
 
 ## Contribution Statement
+All contributions were made by Alicia Brown
