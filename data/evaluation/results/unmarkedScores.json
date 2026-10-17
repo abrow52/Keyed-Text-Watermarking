@@ -1,0 +1,1352 @@
+[
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/048.txt",
+    "threshold": 0.65,
+    "score": 0.4883720930232558,
+    "wordCount": 43,
+    "greenWordCount": 21,
+    "distinctWords": 32,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/049.txt",
+    "threshold": 0.65,
+    "score": 0.5844155844155844,
+    "wordCount": 77,
+    "greenWordCount": 45,
+    "distinctWords": 50,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/003.txt",
+    "threshold": 0.65,
+    "score": 0.494949494949495,
+    "wordCount": 99,
+    "greenWordCount": 49,
+    "distinctWords": 66,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/017.txt",
+    "threshold": 0.65,
+    "score": 0.423728813559322,
+    "wordCount": 59,
+    "greenWordCount": 25,
+    "distinctWords": 44,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/016.txt",
+    "threshold": 0.65,
+    "score": 0.46835443037974683,
+    "wordCount": 79,
+    "greenWordCount": 37,
+    "distinctWords": 62,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/002.txt",
+    "threshold": 0.65,
+    "score": 0.5,
+    "wordCount": 56,
+    "greenWordCount": 28,
+    "distinctWords": 47,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/014.txt",
+    "threshold": 0.65,
+    "score": 0.4461538461538462,
+    "wordCount": 65,
+    "greenWordCount": 29,
+    "distinctWords": 44,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/028.txt",
+    "threshold": 0.65,
+    "score": 0.5394736842105263,
+    "wordCount": 76,
+    "greenWordCount": 41,
+    "distinctWords": 60,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/029.txt",
+    "threshold": 0.65,
+    "score": 0.4931506849315068,
+    "wordCount": 73,
+    "greenWordCount": 36,
+    "distinctWords": 58,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/001.txt",
+    "threshold": 0.65,
+    "score": 0.42857142857142855,
+    "wordCount": 42,
+    "greenWordCount": 18,
+    "distinctWords": 33,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/015.txt",
+    "threshold": 0.65,
+    "score": 0.5454545454545454,
+    "wordCount": 88,
+    "greenWordCount": 48,
+    "distinctWords": 70,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/039.txt",
+    "threshold": 0.65,
+    "score": 0.5932203389830508,
+    "wordCount": 59,
+    "greenWordCount": 35,
+    "distinctWords": 47,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/011.txt",
+    "threshold": 0.65,
+    "score": 0.573170731707317,
+    "wordCount": 82,
+    "greenWordCount": 47,
+    "distinctWords": 66,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/005.txt",
+    "threshold": 0.65,
+    "score": 0.5319148936170213,
+    "wordCount": 94,
+    "greenWordCount": 50,
+    "distinctWords": 63,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/004.txt",
+    "threshold": 0.65,
+    "score": 0.5102040816326531,
+    "wordCount": 49,
+    "greenWordCount": 25,
+    "distinctWords": 36,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/010.txt",
+    "threshold": 0.65,
+    "score": 0.45,
+    "wordCount": 60,
+    "greenWordCount": 27,
+    "distinctWords": 45,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/038.txt",
+    "threshold": 0.65,
+    "score": 0.4868421052631579,
+    "wordCount": 76,
+    "greenWordCount": 37,
+    "distinctWords": 58,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/006.txt",
+    "threshold": 0.65,
+    "score": 0.5277777777777778,
+    "wordCount": 72,
+    "greenWordCount": 38,
+    "distinctWords": 59,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/012.txt",
+    "threshold": 0.65,
+    "score": 0.48484848484848486,
+    "wordCount": 33,
+    "greenWordCount": 16,
+    "distinctWords": 32,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/013.txt",
+    "threshold": 0.65,
+    "score": 0.58,
+    "wordCount": 50,
+    "greenWordCount": 29,
+    "distinctWords": 39,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/007.txt",
+    "threshold": 0.65,
+    "score": 0.4270833333333333,
+    "wordCount": 96,
+    "greenWordCount": 41,
+    "distinctWords": 72,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/022.txt",
+    "threshold": 0.65,
+    "score": 0.5,
+    "wordCount": 62,
+    "greenWordCount": 31,
+    "distinctWords": 45,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/036.txt",
+    "threshold": 0.65,
+    "score": 0.5757575757575758,
+    "wordCount": 33,
+    "greenWordCount": 19,
+    "distinctWords": 32,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/037.txt",
+    "threshold": 0.65,
+    "score": 0.524390243902439,
+    "wordCount": 82,
+    "greenWordCount": 43,
+    "distinctWords": 62,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/023.txt",
+    "threshold": 0.65,
+    "score": 0.43037974683544306,
+    "wordCount": 79,
+    "greenWordCount": 34,
+    "distinctWords": 57,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/035.txt",
+    "threshold": 0.65,
+    "score": 0.49411764705882355,
+    "wordCount": 85,
+    "greenWordCount": 42,
+    "distinctWords": 64,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/021.txt",
+    "threshold": 0.65,
+    "score": 0.5689655172413793,
+    "wordCount": 58,
+    "greenWordCount": 33,
+    "distinctWords": 46,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/009.txt",
+    "threshold": 0.65,
+    "score": 0.5660377358490566,
+    "wordCount": 53,
+    "greenWordCount": 30,
+    "distinctWords": 34,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/008.txt",
+    "threshold": 0.65,
+    "score": 0.4943820224719101,
+    "wordCount": 89,
+    "greenWordCount": 44,
+    "distinctWords": 62,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/020.txt",
+    "threshold": 0.65,
+    "score": 0.3835616438356164,
+    "wordCount": 73,
+    "greenWordCount": 28,
+    "distinctWords": 51,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/034.txt",
+    "threshold": 0.65,
+    "score": 0.46153846153846156,
+    "wordCount": 39,
+    "greenWordCount": 18,
+    "distinctWords": 36,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/018.txt",
+    "threshold": 0.65,
+    "score": 0.5773195876288659,
+    "wordCount": 97,
+    "greenWordCount": 56,
+    "distinctWords": 70,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/030.txt",
+    "threshold": 0.65,
+    "score": 0.6020408163265306,
+    "wordCount": 98,
+    "greenWordCount": 59,
+    "distinctWords": 70,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/024.txt",
+    "threshold": 0.65,
+    "score": 0.4421052631578947,
+    "wordCount": 95,
+    "greenWordCount": 42,
+    "distinctWords": 65,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/025.txt",
+    "threshold": 0.65,
+    "score": 0.48,
+    "wordCount": 50,
+    "greenWordCount": 24,
+    "distinctWords": 43,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/031.txt",
+    "threshold": 0.65,
+    "score": 0.5576923076923077,
+    "wordCount": 52,
+    "greenWordCount": 29,
+    "distinctWords": 44,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/019.txt",
+    "threshold": 0.65,
+    "score": 0.4576271186440678,
+    "wordCount": 59,
+    "greenWordCount": 27,
+    "distinctWords": 40,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/027.txt",
+    "threshold": 0.65,
+    "score": 0.3793103448275862,
+    "wordCount": 87,
+    "greenWordCount": 33,
+    "distinctWords": 69,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/033.txt",
+    "threshold": 0.65,
+    "score": 0.5897435897435898,
+    "wordCount": 39,
+    "greenWordCount": 23,
+    "distinctWords": 35,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/032.txt",
+    "threshold": 0.65,
+    "score": 0.6136363636363636,
+    "wordCount": 88,
+    "greenWordCount": 54,
+    "distinctWords": 70,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/026.txt",
+    "threshold": 0.65,
+    "score": 0.5192307692307693,
+    "wordCount": 52,
+    "greenWordCount": 27,
+    "distinctWords": 42,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/041.txt",
+    "threshold": 0.65,
+    "score": 0.6105263157894737,
+    "wordCount": 95,
+    "greenWordCount": 58,
+    "distinctWords": 64,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/040.txt",
+    "threshold": 0.65,
+    "score": 0.5662650602409639,
+    "wordCount": 83,
+    "greenWordCount": 47,
+    "distinctWords": 49,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/042.txt",
+    "threshold": 0.65,
+    "score": 0.5774647887323944,
+    "wordCount": 71,
+    "greenWordCount": 41,
+    "distinctWords": 54,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/043.txt",
+    "threshold": 0.65,
+    "score": 0.6744186046511628,
+    "wordCount": 43,
+    "greenWordCount": 29,
+    "distinctWords": 33,
+    "flagged": true
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/047.txt",
+    "threshold": 0.65,
+    "score": 0.6571428571428571,
+    "wordCount": 35,
+    "greenWordCount": 23,
+    "distinctWords": 28,
+    "flagged": true
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/046.txt",
+    "threshold": 0.65,
+    "score": 0.5833333333333334,
+    "wordCount": 36,
+    "greenWordCount": 21,
+    "distinctWords": 28,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/044.txt",
+    "threshold": 0.65,
+    "score": 0.5714285714285714,
+    "wordCount": 77,
+    "greenWordCount": 44,
+    "distinctWords": 53,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/050.txt",
+    "threshold": 0.65,
+    "score": 0.5666666666666667,
+    "wordCount": 30,
+    "greenWordCount": 17,
+    "distinctWords": 27,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/30_99/045.txt",
+    "threshold": 0.65,
+    "score": 0.5555555555555556,
+    "wordCount": 63,
+    "greenWordCount": 35,
+    "distinctWords": 48,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/048.txt",
+    "threshold": 0.65,
+    "score": 0.5572519083969466,
+    "wordCount": 131,
+    "greenWordCount": 73,
+    "distinctWords": 81,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/049.txt",
+    "threshold": 0.65,
+    "score": 0.5244755244755245,
+    "wordCount": 143,
+    "greenWordCount": 75,
+    "distinctWords": 88,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/003.txt",
+    "threshold": 0.65,
+    "score": 0.4702702702702703,
+    "wordCount": 185,
+    "greenWordCount": 87,
+    "distinctWords": 115,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/017.txt",
+    "threshold": 0.65,
+    "score": 0.504950495049505,
+    "wordCount": 101,
+    "greenWordCount": 51,
+    "distinctWords": 71,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/016.txt",
+    "threshold": 0.65,
+    "score": 0.48044692737430167,
+    "wordCount": 179,
+    "greenWordCount": 86,
+    "distinctWords": 104,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/002.txt",
+    "threshold": 0.65,
+    "score": 0.5579710144927537,
+    "wordCount": 138,
+    "greenWordCount": 77,
+    "distinctWords": 85,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/014.txt",
+    "threshold": 0.65,
+    "score": 0.5035460992907801,
+    "wordCount": 141,
+    "greenWordCount": 71,
+    "distinctWords": 92,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/028.txt",
+    "threshold": 0.65,
+    "score": 0.5454545454545454,
+    "wordCount": 165,
+    "greenWordCount": 90,
+    "distinctWords": 113,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/029.txt",
+    "threshold": 0.65,
+    "score": 0.6026490066225165,
+    "wordCount": 151,
+    "greenWordCount": 91,
+    "distinctWords": 111,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/001.txt",
+    "threshold": 0.65,
+    "score": 0.45806451612903226,
+    "wordCount": 155,
+    "greenWordCount": 71,
+    "distinctWords": 95,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/015.txt",
+    "threshold": 0.65,
+    "score": 0.4742857142857143,
+    "wordCount": 175,
+    "greenWordCount": 83,
+    "distinctWords": 105,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/039.txt",
+    "threshold": 0.65,
+    "score": 0.5729166666666666,
+    "wordCount": 192,
+    "greenWordCount": 110,
+    "distinctWords": 103,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/011.txt",
+    "threshold": 0.65,
+    "score": 0.546875,
+    "wordCount": 192,
+    "greenWordCount": 105,
+    "distinctWords": 133,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/005.txt",
+    "threshold": 0.65,
+    "score": 0.5294117647058824,
+    "wordCount": 187,
+    "greenWordCount": 99,
+    "distinctWords": 109,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/004.txt",
+    "threshold": 0.65,
+    "score": 0.49504950495049505,
+    "wordCount": 101,
+    "greenWordCount": 50,
+    "distinctWords": 72,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/010.txt",
+    "threshold": 0.65,
+    "score": 0.48947368421052634,
+    "wordCount": 190,
+    "greenWordCount": 93,
+    "distinctWords": 117,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/038.txt",
+    "threshold": 0.65,
+    "score": 0.5555555555555556,
+    "wordCount": 144,
+    "greenWordCount": 80,
+    "distinctWords": 91,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/006.txt",
+    "threshold": 0.65,
+    "score": 0.535483870967742,
+    "wordCount": 155,
+    "greenWordCount": 83,
+    "distinctWords": 107,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/012.txt",
+    "threshold": 0.65,
+    "score": 0.5,
+    "wordCount": 198,
+    "greenWordCount": 99,
+    "distinctWords": 127,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/013.txt",
+    "threshold": 0.65,
+    "score": 0.4713375796178344,
+    "wordCount": 157,
+    "greenWordCount": 74,
+    "distinctWords": 102,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/007.txt",
+    "threshold": 0.65,
+    "score": 0.5714285714285714,
+    "wordCount": 154,
+    "greenWordCount": 88,
+    "distinctWords": 107,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/022.txt",
+    "threshold": 0.65,
+    "score": 0.5403225806451613,
+    "wordCount": 124,
+    "greenWordCount": 67,
+    "distinctWords": 72,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/036.txt",
+    "threshold": 0.65,
+    "score": 0.5887096774193549,
+    "wordCount": 124,
+    "greenWordCount": 73,
+    "distinctWords": 99,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/037.txt",
+    "threshold": 0.65,
+    "score": 0.5806451612903226,
+    "wordCount": 155,
+    "greenWordCount": 90,
+    "distinctWords": 105,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/023.txt",
+    "threshold": 0.65,
+    "score": 0.5260416666666666,
+    "wordCount": 192,
+    "greenWordCount": 101,
+    "distinctWords": 109,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/035.txt",
+    "threshold": 0.65,
+    "score": 0.5284090909090909,
+    "wordCount": 176,
+    "greenWordCount": 93,
+    "distinctWords": 109,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/021.txt",
+    "threshold": 0.65,
+    "score": 0.5,
+    "wordCount": 194,
+    "greenWordCount": 97,
+    "distinctWords": 115,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/009.txt",
+    "threshold": 0.65,
+    "score": 0.5138121546961326,
+    "wordCount": 181,
+    "greenWordCount": 93,
+    "distinctWords": 116,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/008.txt",
+    "threshold": 0.65,
+    "score": 0.5416666666666666,
+    "wordCount": 144,
+    "greenWordCount": 78,
+    "distinctWords": 106,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/020.txt",
+    "threshold": 0.65,
+    "score": 0.5061728395061729,
+    "wordCount": 162,
+    "greenWordCount": 82,
+    "distinctWords": 101,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/034.txt",
+    "threshold": 0.65,
+    "score": 0.5537190082644629,
+    "wordCount": 121,
+    "greenWordCount": 67,
+    "distinctWords": 87,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/018.txt",
+    "threshold": 0.65,
+    "score": 0.4700854700854701,
+    "wordCount": 117,
+    "greenWordCount": 55,
+    "distinctWords": 76,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/030.txt",
+    "threshold": 0.65,
+    "score": 0.515527950310559,
+    "wordCount": 161,
+    "greenWordCount": 83,
+    "distinctWords": 112,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/024.txt",
+    "threshold": 0.65,
+    "score": 0.5363636363636364,
+    "wordCount": 110,
+    "greenWordCount": 59,
+    "distinctWords": 83,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/025.txt",
+    "threshold": 0.65,
+    "score": 0.4838709677419355,
+    "wordCount": 155,
+    "greenWordCount": 75,
+    "distinctWords": 98,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/031.txt",
+    "threshold": 0.65,
+    "score": 0.5208333333333334,
+    "wordCount": 144,
+    "greenWordCount": 75,
+    "distinctWords": 99,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/019.txt",
+    "threshold": 0.65,
+    "score": 0.453416149068323,
+    "wordCount": 161,
+    "greenWordCount": 73,
+    "distinctWords": 109,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/027.txt",
+    "threshold": 0.65,
+    "score": 0.46285714285714286,
+    "wordCount": 175,
+    "greenWordCount": 81,
+    "distinctWords": 118,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/033.txt",
+    "threshold": 0.65,
+    "score": 0.5416666666666666,
+    "wordCount": 120,
+    "greenWordCount": 65,
+    "distinctWords": 85,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/032.txt",
+    "threshold": 0.65,
+    "score": 0.5,
+    "wordCount": 196,
+    "greenWordCount": 98,
+    "distinctWords": 121,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/026.txt",
+    "threshold": 0.65,
+    "score": 0.512987012987013,
+    "wordCount": 154,
+    "greenWordCount": 79,
+    "distinctWords": 98,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/041.txt",
+    "threshold": 0.65,
+    "score": 0.5637583892617449,
+    "wordCount": 149,
+    "greenWordCount": 84,
+    "distinctWords": 88,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/040.txt",
+    "threshold": 0.65,
+    "score": 0.6257668711656442,
+    "wordCount": 163,
+    "greenWordCount": 102,
+    "distinctWords": 98,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/042.txt",
+    "threshold": 0.65,
+    "score": 0.5786516853932584,
+    "wordCount": 178,
+    "greenWordCount": 103,
+    "distinctWords": 94,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/043.txt",
+    "threshold": 0.65,
+    "score": 0.5818181818181818,
+    "wordCount": 110,
+    "greenWordCount": 64,
+    "distinctWords": 73,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/047.txt",
+    "threshold": 0.65,
+    "score": 0.6,
+    "wordCount": 185,
+    "greenWordCount": 111,
+    "distinctWords": 102,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/046.txt",
+    "threshold": 0.65,
+    "score": 0.5377358490566038,
+    "wordCount": 106,
+    "greenWordCount": 57,
+    "distinctWords": 75,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/044.txt",
+    "threshold": 0.65,
+    "score": 0.56,
+    "wordCount": 100,
+    "greenWordCount": 56,
+    "distinctWords": 71,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/050.txt",
+    "threshold": 0.65,
+    "score": 0.6103896103896104,
+    "wordCount": 154,
+    "greenWordCount": 94,
+    "distinctWords": 83,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/100_199/045.txt",
+    "threshold": 0.65,
+    "score": 0.6646341463414634,
+    "wordCount": 164,
+    "greenWordCount": 109,
+    "distinctWords": 95,
+    "flagged": true
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/048.txt",
+    "threshold": 0.65,
+    "score": 0.5642857142857143,
+    "wordCount": 280,
+    "greenWordCount": 158,
+    "distinctWords": 164,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/049.txt",
+    "threshold": 0.65,
+    "score": 0.5585585585585585,
+    "wordCount": 333,
+    "greenWordCount": 186,
+    "distinctWords": 179,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/003.txt",
+    "threshold": 0.65,
+    "score": 0.5149501661129569,
+    "wordCount": 301,
+    "greenWordCount": 155,
+    "distinctWords": 161,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/017.txt",
+    "threshold": 0.65,
+    "score": 0.48826291079812206,
+    "wordCount": 213,
+    "greenWordCount": 104,
+    "distinctWords": 117,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/016.txt",
+    "threshold": 0.65,
+    "score": 0.45907473309608543,
+    "wordCount": 281,
+    "greenWordCount": 129,
+    "distinctWords": 159,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/002.txt",
+    "threshold": 0.65,
+    "score": 0.4930555555555556,
+    "wordCount": 288,
+    "greenWordCount": 142,
+    "distinctWords": 156,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/014.txt",
+    "threshold": 0.65,
+    "score": 0.49728260869565216,
+    "wordCount": 368,
+    "greenWordCount": 183,
+    "distinctWords": 188,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/028.txt",
+    "threshold": 0.65,
+    "score": 0.553623188405797,
+    "wordCount": 345,
+    "greenWordCount": 191,
+    "distinctWords": 219,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/029.txt",
+    "threshold": 0.65,
+    "score": 0.5041322314049587,
+    "wordCount": 363,
+    "greenWordCount": 183,
+    "distinctWords": 209,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/001.txt",
+    "threshold": 0.65,
+    "score": 0.48739495798319327,
+    "wordCount": 238,
+    "greenWordCount": 116,
+    "distinctWords": 127,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/015.txt",
+    "threshold": 0.65,
+    "score": 0.4778761061946903,
+    "wordCount": 226,
+    "greenWordCount": 108,
+    "distinctWords": 131,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/039.txt",
+    "threshold": 0.65,
+    "score": 0.5921985815602837,
+    "wordCount": 282,
+    "greenWordCount": 167,
+    "distinctWords": 140,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/011.txt",
+    "threshold": 0.65,
+    "score": 0.5476190476190477,
+    "wordCount": 210,
+    "greenWordCount": 115,
+    "distinctWords": 111,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/005.txt",
+    "threshold": 0.65,
+    "score": 0.5073746312684366,
+    "wordCount": 339,
+    "greenWordCount": 172,
+    "distinctWords": 188,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/004.txt",
+    "threshold": 0.65,
+    "score": 0.5613577023498695,
+    "wordCount": 383,
+    "greenWordCount": 215,
+    "distinctWords": 216,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/010.txt",
+    "threshold": 0.65,
+    "score": 0.5594936708860759,
+    "wordCount": 395,
+    "greenWordCount": 221,
+    "distinctWords": 197,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/038.txt",
+    "threshold": 0.65,
+    "score": 0.5509433962264151,
+    "wordCount": 265,
+    "greenWordCount": 146,
+    "distinctWords": 160,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/006.txt",
+    "threshold": 0.65,
+    "score": 0.5321100917431193,
+    "wordCount": 218,
+    "greenWordCount": 116,
+    "distinctWords": 143,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/012.txt",
+    "threshold": 0.65,
+    "score": 0.6018957345971564,
+    "wordCount": 211,
+    "greenWordCount": 127,
+    "distinctWords": 128,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/013.txt",
+    "threshold": 0.65,
+    "score": 0.5646437994722955,
+    "wordCount": 379,
+    "greenWordCount": 214,
+    "distinctWords": 185,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/007.txt",
+    "threshold": 0.65,
+    "score": 0.49517684887459806,
+    "wordCount": 311,
+    "greenWordCount": 154,
+    "distinctWords": 176,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/022.txt",
+    "threshold": 0.65,
+    "score": 0.5146666666666667,
+    "wordCount": 375,
+    "greenWordCount": 193,
+    "distinctWords": 173,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/036.txt",
+    "threshold": 0.65,
+    "score": 0.5830388692579506,
+    "wordCount": 283,
+    "greenWordCount": 165,
+    "distinctWords": 173,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/037.txt",
+    "threshold": 0.65,
+    "score": 0.5835694050991501,
+    "wordCount": 353,
+    "greenWordCount": 206,
+    "distinctWords": 186,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/023.txt",
+    "threshold": 0.65,
+    "score": 0.5063291139240507,
+    "wordCount": 395,
+    "greenWordCount": 200,
+    "distinctWords": 188,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/035.txt",
+    "threshold": 0.65,
+    "score": 0.6013513513513513,
+    "wordCount": 296,
+    "greenWordCount": 178,
+    "distinctWords": 173,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/021.txt",
+    "threshold": 0.65,
+    "score": 0.5403726708074534,
+    "wordCount": 322,
+    "greenWordCount": 174,
+    "distinctWords": 158,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/009.txt",
+    "threshold": 0.65,
+    "score": 0.5714285714285714,
+    "wordCount": 294,
+    "greenWordCount": 168,
+    "distinctWords": 155,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/008.txt",
+    "threshold": 0.65,
+    "score": 0.47733333333333333,
+    "wordCount": 375,
+    "greenWordCount": 179,
+    "distinctWords": 182,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/020.txt",
+    "threshold": 0.65,
+    "score": 0.48360655737704916,
+    "wordCount": 366,
+    "greenWordCount": 177,
+    "distinctWords": 171,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/034.txt",
+    "threshold": 0.65,
+    "score": 0.5692307692307692,
+    "wordCount": 260,
+    "greenWordCount": 148,
+    "distinctWords": 156,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/018.txt",
+    "threshold": 0.65,
+    "score": 0.5348189415041783,
+    "wordCount": 359,
+    "greenWordCount": 192,
+    "distinctWords": 179,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/030.txt",
+    "threshold": 0.65,
+    "score": 0.5414201183431953,
+    "wordCount": 338,
+    "greenWordCount": 183,
+    "distinctWords": 192,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/024.txt",
+    "threshold": 0.65,
+    "score": 0.49415204678362573,
+    "wordCount": 342,
+    "greenWordCount": 169,
+    "distinctWords": 173,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/025.txt",
+    "threshold": 0.65,
+    "score": 0.4304635761589404,
+    "wordCount": 302,
+    "greenWordCount": 130,
+    "distinctWords": 148,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/031.txt",
+    "threshold": 0.65,
+    "score": 0.5948275862068966,
+    "wordCount": 232,
+    "greenWordCount": 138,
+    "distinctWords": 162,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/019.txt",
+    "threshold": 0.65,
+    "score": 0.5067114093959731,
+    "wordCount": 298,
+    "greenWordCount": 151,
+    "distinctWords": 158,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/027.txt",
+    "threshold": 0.65,
+    "score": 0.5128205128205128,
+    "wordCount": 390,
+    "greenWordCount": 200,
+    "distinctWords": 216,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/033.txt",
+    "threshold": 0.65,
+    "score": 0.539622641509434,
+    "wordCount": 265,
+    "greenWordCount": 143,
+    "distinctWords": 170,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/032.txt",
+    "threshold": 0.65,
+    "score": 0.572139303482587,
+    "wordCount": 201,
+    "greenWordCount": 115,
+    "distinctWords": 121,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/026.txt",
+    "threshold": 0.65,
+    "score": 0.5054054054054054,
+    "wordCount": 370,
+    "greenWordCount": 187,
+    "distinctWords": 176,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/041.txt",
+    "threshold": 0.65,
+    "score": 0.591715976331361,
+    "wordCount": 338,
+    "greenWordCount": 200,
+    "distinctWords": 156,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/040.txt",
+    "threshold": 0.65,
+    "score": 0.5865921787709497,
+    "wordCount": 358,
+    "greenWordCount": 210,
+    "distinctWords": 156,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/042.txt",
+    "threshold": 0.65,
+    "score": 0.5901639344262295,
+    "wordCount": 305,
+    "greenWordCount": 180,
+    "distinctWords": 158,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/043.txt",
+    "threshold": 0.65,
+    "score": 0.5608108108108109,
+    "wordCount": 296,
+    "greenWordCount": 166,
+    "distinctWords": 143,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/047.txt",
+    "threshold": 0.65,
+    "score": 0.5879629629629629,
+    "wordCount": 216,
+    "greenWordCount": 127,
+    "distinctWords": 121,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/046.txt",
+    "threshold": 0.65,
+    "score": 0.5898617511520737,
+    "wordCount": 217,
+    "greenWordCount": 128,
+    "distinctWords": 117,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/044.txt",
+    "threshold": 0.65,
+    "score": 0.5633423180592992,
+    "wordCount": 371,
+    "greenWordCount": 209,
+    "distinctWords": 155,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/050.txt",
+    "threshold": 0.65,
+    "score": 0.5739348370927319,
+    "wordCount": 399,
+    "greenWordCount": 229,
+    "distinctWords": 190,
+    "flagged": false
+  },
+  {
+    "file": "data/evaluation/passages/unmarked/200_400/045.txt",
+    "threshold": 0.65,
+    "score": 0.5915492957746479,
+    "wordCount": 213,
+    "greenWordCount": 126,
+    "distinctWords": 121,
+    "flagged": false
+  }
+]
