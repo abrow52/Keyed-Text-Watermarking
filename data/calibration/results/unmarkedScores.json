@@ -1,0 +1,1802 @@
+[
+  {
+    "file": "data/calibration/passages/unmarked/30_99/048.txt",
+    "score": 0.5212765957446809,
+    "wordCount": 94,
+    "greenWordCount": 49,
+    "distinctWords": 69,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/049.txt",
+    "score": 0.6222222222222222,
+    "wordCount": 45,
+    "greenWordCount": 28,
+    "distinctWords": 37,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": true,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/003.txt",
+    "score": 0.5454545454545454,
+    "wordCount": 66,
+    "greenWordCount": 36,
+    "distinctWords": 52,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/017.txt",
+    "score": 0.5882352941176471,
+    "wordCount": 85,
+    "greenWordCount": 50,
+    "distinctWords": 56,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/016.txt",
+    "score": 0.6043956043956044,
+    "wordCount": 91,
+    "greenWordCount": 55,
+    "distinctWords": 62,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": true,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/002.txt",
+    "score": 0.7704918032786885,
+    "wordCount": 61,
+    "greenWordCount": 47,
+    "distinctWords": 45,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": true,
+      "0.65": true
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/014.txt",
+    "score": 0.5588235294117647,
+    "wordCount": 34,
+    "greenWordCount": 19,
+    "distinctWords": 27,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/028.txt",
+    "score": 0.6481481481481481,
+    "wordCount": 54,
+    "greenWordCount": 35,
+    "distinctWords": 35,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": true,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/029.txt",
+    "score": 0.7058823529411765,
+    "wordCount": 34,
+    "greenWordCount": 24,
+    "distinctWords": 31,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": true,
+      "0.65": true
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/001.txt",
+    "score": 0.42857142857142855,
+    "wordCount": 35,
+    "greenWordCount": 15,
+    "distinctWords": 28,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/015.txt",
+    "score": 0.5301204819277109,
+    "wordCount": 83,
+    "greenWordCount": 44,
+    "distinctWords": 55,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/039.txt",
+    "score": 0.5510204081632653,
+    "wordCount": 49,
+    "greenWordCount": 27,
+    "distinctWords": 36,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/011.txt",
+    "score": 0.4634146341463415,
+    "wordCount": 82,
+    "greenWordCount": 38,
+    "distinctWords": 61,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/005.txt",
+    "score": 0.6610169491525424,
+    "wordCount": 59,
+    "greenWordCount": 39,
+    "distinctWords": 43,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": true,
+      "0.65": true
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/004.txt",
+    "score": 0.6,
+    "wordCount": 85,
+    "greenWordCount": 51,
+    "distinctWords": 65,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/010.txt",
+    "score": 0.5925925925925926,
+    "wordCount": 54,
+    "greenWordCount": 32,
+    "distinctWords": 39,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/038.txt",
+    "score": 0.5806451612903226,
+    "wordCount": 31,
+    "greenWordCount": 18,
+    "distinctWords": 28,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/006.txt",
+    "score": 0.5510204081632653,
+    "wordCount": 49,
+    "greenWordCount": 27,
+    "distinctWords": 35,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/012.txt",
+    "score": 0.5789473684210527,
+    "wordCount": 57,
+    "greenWordCount": 33,
+    "distinctWords": 44,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/013.txt",
+    "score": 0.6222222222222222,
+    "wordCount": 90,
+    "greenWordCount": 56,
+    "distinctWords": 64,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": true,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/007.txt",
+    "score": 0.5254237288135594,
+    "wordCount": 59,
+    "greenWordCount": 31,
+    "distinctWords": 50,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/022.txt",
+    "score": 0.44086021505376344,
+    "wordCount": 93,
+    "greenWordCount": 41,
+    "distinctWords": 67,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/036.txt",
+    "score": 0.6419753086419753,
+    "wordCount": 81,
+    "greenWordCount": 52,
+    "distinctWords": 58,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": true,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/037.txt",
+    "score": 0.5333333333333333,
+    "wordCount": 45,
+    "greenWordCount": 24,
+    "distinctWords": 38,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/023.txt",
+    "score": 0.5842696629213483,
+    "wordCount": 89,
+    "greenWordCount": 52,
+    "distinctWords": 67,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/035.txt",
+    "score": 0.5517241379310345,
+    "wordCount": 87,
+    "greenWordCount": 48,
+    "distinctWords": 63,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/021.txt",
+    "score": 0.47126436781609193,
+    "wordCount": 87,
+    "greenWordCount": 41,
+    "distinctWords": 67,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/009.txt",
+    "score": 0.515625,
+    "wordCount": 64,
+    "greenWordCount": 33,
+    "distinctWords": 50,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/008.txt",
+    "score": 0.5882352941176471,
+    "wordCount": 34,
+    "greenWordCount": 20,
+    "distinctWords": 27,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/020.txt",
+    "score": 0.46987951807228917,
+    "wordCount": 83,
+    "greenWordCount": 39,
+    "distinctWords": 64,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/034.txt",
+    "score": 0.5555555555555556,
+    "wordCount": 81,
+    "greenWordCount": 45,
+    "distinctWords": 63,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/018.txt",
+    "score": 0.5588235294117647,
+    "wordCount": 68,
+    "greenWordCount": 38,
+    "distinctWords": 48,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/030.txt",
+    "score": 0.59375,
+    "wordCount": 96,
+    "greenWordCount": 57,
+    "distinctWords": 72,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/024.txt",
+    "score": 0.5161290322580645,
+    "wordCount": 31,
+    "greenWordCount": 16,
+    "distinctWords": 27,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/025.txt",
+    "score": 0.4819277108433735,
+    "wordCount": 83,
+    "greenWordCount": 40,
+    "distinctWords": 63,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/031.txt",
+    "score": 0.5833333333333334,
+    "wordCount": 96,
+    "greenWordCount": 56,
+    "distinctWords": 66,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/019.txt",
+    "score": 0.5735294117647058,
+    "wordCount": 68,
+    "greenWordCount": 39,
+    "distinctWords": 55,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/027.txt",
+    "score": 0.6111111111111112,
+    "wordCount": 90,
+    "greenWordCount": 55,
+    "distinctWords": 70,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": true,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/033.txt",
+    "score": 0.7547169811320755,
+    "wordCount": 53,
+    "greenWordCount": 40,
+    "distinctWords": 36,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": true,
+      "0.65": true
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/032.txt",
+    "score": 0.6862745098039216,
+    "wordCount": 51,
+    "greenWordCount": 35,
+    "distinctWords": 42,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": true,
+      "0.65": true
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/026.txt",
+    "score": 0.5051546391752577,
+    "wordCount": 97,
+    "greenWordCount": 49,
+    "distinctWords": 71,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/041.txt",
+    "score": 0.5342465753424658,
+    "wordCount": 73,
+    "greenWordCount": 39,
+    "distinctWords": 52,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/040.txt",
+    "score": 0.5662650602409639,
+    "wordCount": 83,
+    "greenWordCount": 47,
+    "distinctWords": 68,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/042.txt",
+    "score": 0.5164835164835165,
+    "wordCount": 91,
+    "greenWordCount": 47,
+    "distinctWords": 68,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/043.txt",
+    "score": 0.55,
+    "wordCount": 80,
+    "greenWordCount": 44,
+    "distinctWords": 60,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/047.txt",
+    "score": 0.45454545454545453,
+    "wordCount": 77,
+    "greenWordCount": 35,
+    "distinctWords": 58,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/046.txt",
+    "score": 0.5882352941176471,
+    "wordCount": 51,
+    "greenWordCount": 30,
+    "distinctWords": 43,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/044.txt",
+    "score": 0.5370370370370371,
+    "wordCount": 54,
+    "greenWordCount": 29,
+    "distinctWords": 45,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/050.txt",
+    "score": 0.45569620253164556,
+    "wordCount": 79,
+    "greenWordCount": 36,
+    "distinctWords": 64,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/30_99/045.txt",
+    "score": 0.4666666666666667,
+    "wordCount": 30,
+    "greenWordCount": 14,
+    "distinctWords": 28,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/048.txt",
+    "score": 0.573170731707317,
+    "wordCount": 164,
+    "greenWordCount": 94,
+    "distinctWords": 117,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/049.txt",
+    "score": 0.45664739884393063,
+    "wordCount": 173,
+    "greenWordCount": 79,
+    "distinctWords": 113,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/003.txt",
+    "score": 0.5581395348837209,
+    "wordCount": 129,
+    "greenWordCount": 72,
+    "distinctWords": 87,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/017.txt",
+    "score": 0.5590062111801242,
+    "wordCount": 161,
+    "greenWordCount": 90,
+    "distinctWords": 95,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/016.txt",
+    "score": 0.6044776119402985,
+    "wordCount": 134,
+    "greenWordCount": 81,
+    "distinctWords": 78,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": true,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/002.txt",
+    "score": 0.5078125,
+    "wordCount": 128,
+    "greenWordCount": 65,
+    "distinctWords": 83,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/014.txt",
+    "score": 0.6077348066298343,
+    "wordCount": 181,
+    "greenWordCount": 110,
+    "distinctWords": 113,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": true,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/028.txt",
+    "score": 0.5968586387434555,
+    "wordCount": 191,
+    "greenWordCount": 114,
+    "distinctWords": 120,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/029.txt",
+    "score": 0.5941176470588235,
+    "wordCount": 170,
+    "greenWordCount": 101,
+    "distinctWords": 104,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/001.txt",
+    "score": 0.543859649122807,
+    "wordCount": 114,
+    "greenWordCount": 62,
+    "distinctWords": 81,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/015.txt",
+    "score": 0.5304347826086957,
+    "wordCount": 115,
+    "greenWordCount": 61,
+    "distinctWords": 68,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/039.txt",
+    "score": 0.45,
+    "wordCount": 180,
+    "greenWordCount": 81,
+    "distinctWords": 116,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/011.txt",
+    "score": 0.5333333333333333,
+    "wordCount": 165,
+    "greenWordCount": 88,
+    "distinctWords": 79,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/005.txt",
+    "score": 0.5571428571428572,
+    "wordCount": 140,
+    "greenWordCount": 78,
+    "distinctWords": 90,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/004.txt",
+    "score": 0.5869565217391305,
+    "wordCount": 138,
+    "greenWordCount": 81,
+    "distinctWords": 91,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/010.txt",
+    "score": 0.5526315789473685,
+    "wordCount": 152,
+    "greenWordCount": 84,
+    "distinctWords": 88,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/038.txt",
+    "score": 0.43478260869565216,
+    "wordCount": 138,
+    "greenWordCount": 60,
+    "distinctWords": 91,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/006.txt",
+    "score": 0.5664335664335665,
+    "wordCount": 143,
+    "greenWordCount": 81,
+    "distinctWords": 93,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/012.txt",
+    "score": 0.49700598802395207,
+    "wordCount": 167,
+    "greenWordCount": 83,
+    "distinctWords": 100,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/013.txt",
+    "score": 0.49171270718232046,
+    "wordCount": 181,
+    "greenWordCount": 89,
+    "distinctWords": 114,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/007.txt",
+    "score": 0.5188679245283019,
+    "wordCount": 106,
+    "greenWordCount": 55,
+    "distinctWords": 74,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/022.txt",
+    "score": 0.5148514851485149,
+    "wordCount": 101,
+    "greenWordCount": 52,
+    "distinctWords": 72,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/036.txt",
+    "score": 0.6153846153846154,
+    "wordCount": 169,
+    "greenWordCount": 104,
+    "distinctWords": 107,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": true,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/037.txt",
+    "score": 0.5392156862745098,
+    "wordCount": 102,
+    "greenWordCount": 55,
+    "distinctWords": 76,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/023.txt",
+    "score": 0.5146198830409356,
+    "wordCount": 171,
+    "greenWordCount": 88,
+    "distinctWords": 110,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/035.txt",
+    "score": 0.5927835051546392,
+    "wordCount": 194,
+    "greenWordCount": 115,
+    "distinctWords": 137,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/021.txt",
+    "score": 0.5276381909547738,
+    "wordCount": 199,
+    "greenWordCount": 105,
+    "distinctWords": 114,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/009.txt",
+    "score": 0.5585585585585585,
+    "wordCount": 111,
+    "greenWordCount": 62,
+    "distinctWords": 76,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/008.txt",
+    "score": 0.5813953488372093,
+    "wordCount": 129,
+    "greenWordCount": 75,
+    "distinctWords": 85,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/020.txt",
+    "score": 0.5629139072847682,
+    "wordCount": 151,
+    "greenWordCount": 85,
+    "distinctWords": 95,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/034.txt",
+    "score": 0.6086956521739131,
+    "wordCount": 115,
+    "greenWordCount": 70,
+    "distinctWords": 84,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": true,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/018.txt",
+    "score": 0.5078125,
+    "wordCount": 128,
+    "greenWordCount": 65,
+    "distinctWords": 73,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/030.txt",
+    "score": 0.5660377358490566,
+    "wordCount": 106,
+    "greenWordCount": 60,
+    "distinctWords": 74,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/024.txt",
+    "score": 0.5104166666666666,
+    "wordCount": 192,
+    "greenWordCount": 98,
+    "distinctWords": 111,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/025.txt",
+    "score": 0.5426356589147286,
+    "wordCount": 129,
+    "greenWordCount": 70,
+    "distinctWords": 84,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/031.txt",
+    "score": 0.5857988165680473,
+    "wordCount": 169,
+    "greenWordCount": 99,
+    "distinctWords": 105,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/019.txt",
+    "score": 0.5409836065573771,
+    "wordCount": 122,
+    "greenWordCount": 66,
+    "distinctWords": 83,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/027.txt",
+    "score": 0.6134020618556701,
+    "wordCount": 194,
+    "greenWordCount": 119,
+    "distinctWords": 123,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": true,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/033.txt",
+    "score": 0.5087719298245614,
+    "wordCount": 114,
+    "greenWordCount": 58,
+    "distinctWords": 76,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/032.txt",
+    "score": 0.5894039735099338,
+    "wordCount": 151,
+    "greenWordCount": 89,
+    "distinctWords": 98,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/026.txt",
+    "score": 0.5625,
+    "wordCount": 112,
+    "greenWordCount": 63,
+    "distinctWords": 77,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/041.txt",
+    "score": 0.532258064516129,
+    "wordCount": 124,
+    "greenWordCount": 66,
+    "distinctWords": 89,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/040.txt",
+    "score": 0.5803108808290155,
+    "wordCount": 193,
+    "greenWordCount": 112,
+    "distinctWords": 118,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/042.txt",
+    "score": 0.5736842105263158,
+    "wordCount": 190,
+    "greenWordCount": 109,
+    "distinctWords": 128,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/043.txt",
+    "score": 0.5773195876288659,
+    "wordCount": 194,
+    "greenWordCount": 112,
+    "distinctWords": 124,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/047.txt",
+    "score": 0.5035460992907801,
+    "wordCount": 141,
+    "greenWordCount": 71,
+    "distinctWords": 98,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/046.txt",
+    "score": 0.47115384615384615,
+    "wordCount": 104,
+    "greenWordCount": 49,
+    "distinctWords": 75,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/044.txt",
+    "score": 0.49586776859504134,
+    "wordCount": 121,
+    "greenWordCount": 60,
+    "distinctWords": 91,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/050.txt",
+    "score": 0.5377358490566038,
+    "wordCount": 106,
+    "greenWordCount": 57,
+    "distinctWords": 80,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/100_199/045.txt",
+    "score": 0.4744897959183674,
+    "wordCount": 196,
+    "greenWordCount": 93,
+    "distinctWords": 127,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/048.txt",
+    "score": 0.5416666666666666,
+    "wordCount": 216,
+    "greenWordCount": 117,
+    "distinctWords": 139,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/049.txt",
+    "score": 0.5366795366795367,
+    "wordCount": 259,
+    "greenWordCount": 139,
+    "distinctWords": 166,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/003.txt",
+    "score": 0.583547557840617,
+    "wordCount": 389,
+    "greenWordCount": 227,
+    "distinctWords": 196,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/017.txt",
+    "score": 0.5466666666666666,
+    "wordCount": 225,
+    "greenWordCount": 123,
+    "distinctWords": 138,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/016.txt",
+    "score": 0.5980392156862745,
+    "wordCount": 204,
+    "greenWordCount": 122,
+    "distinctWords": 127,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/002.txt",
+    "score": 0.6195652173913043,
+    "wordCount": 276,
+    "greenWordCount": 171,
+    "distinctWords": 146,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": true,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/014.txt",
+    "score": 0.5225225225225225,
+    "wordCount": 222,
+    "greenWordCount": 116,
+    "distinctWords": 142,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/028.txt",
+    "score": 0.5323741007194245,
+    "wordCount": 278,
+    "greenWordCount": 148,
+    "distinctWords": 165,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/029.txt",
+    "score": 0.5685131195335277,
+    "wordCount": 343,
+    "greenWordCount": 195,
+    "distinctWords": 191,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/001.txt",
+    "score": 0.6057692307692307,
+    "wordCount": 208,
+    "greenWordCount": 126,
+    "distinctWords": 113,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": true,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/015.txt",
+    "score": 0.5449101796407185,
+    "wordCount": 334,
+    "greenWordCount": 182,
+    "distinctWords": 160,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/039.txt",
+    "score": 0.5378151260504201,
+    "wordCount": 238,
+    "greenWordCount": 128,
+    "distinctWords": 148,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/011.txt",
+    "score": 0.6227272727272727,
+    "wordCount": 220,
+    "greenWordCount": 137,
+    "distinctWords": 142,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": true,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/005.txt",
+    "score": 0.5672727272727273,
+    "wordCount": 275,
+    "greenWordCount": 156,
+    "distinctWords": 162,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/004.txt",
+    "score": 0.5873493975903614,
+    "wordCount": 332,
+    "greenWordCount": 195,
+    "distinctWords": 172,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/010.txt",
+    "score": 0.5353159851301115,
+    "wordCount": 269,
+    "greenWordCount": 144,
+    "distinctWords": 147,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/038.txt",
+    "score": 0.5392953929539296,
+    "wordCount": 369,
+    "greenWordCount": 199,
+    "distinctWords": 228,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/006.txt",
+    "score": 0.625615763546798,
+    "wordCount": 203,
+    "greenWordCount": 127,
+    "distinctWords": 128,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": true,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/012.txt",
+    "score": 0.5631399317406144,
+    "wordCount": 293,
+    "greenWordCount": 165,
+    "distinctWords": 156,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/013.txt",
+    "score": 0.5802919708029197,
+    "wordCount": 274,
+    "greenWordCount": 159,
+    "distinctWords": 158,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/007.txt",
+    "score": 0.6007604562737643,
+    "wordCount": 263,
+    "greenWordCount": 158,
+    "distinctWords": 150,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": true,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/022.txt",
+    "score": 0.5477941176470589,
+    "wordCount": 272,
+    "greenWordCount": 149,
+    "distinctWords": 145,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/036.txt",
+    "score": 0.5653710247349824,
+    "wordCount": 283,
+    "greenWordCount": 160,
+    "distinctWords": 169,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/037.txt",
+    "score": 0.5126903553299492,
+    "wordCount": 394,
+    "greenWordCount": 202,
+    "distinctWords": 227,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/023.txt",
+    "score": 0.5,
+    "wordCount": 292,
+    "greenWordCount": 146,
+    "distinctWords": 150,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/035.txt",
+    "score": 0.5373961218836565,
+    "wordCount": 361,
+    "greenWordCount": 194,
+    "distinctWords": 183,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/021.txt",
+    "score": 0.5408560311284046,
+    "wordCount": 257,
+    "greenWordCount": 139,
+    "distinctWords": 122,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/009.txt",
+    "score": 0.5406824146981627,
+    "wordCount": 381,
+    "greenWordCount": 206,
+    "distinctWords": 180,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/008.txt",
+    "score": 0.5637254901960784,
+    "wordCount": 204,
+    "greenWordCount": 115,
+    "distinctWords": 125,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/020.txt",
+    "score": 0.477124183006536,
+    "wordCount": 306,
+    "greenWordCount": 146,
+    "distinctWords": 156,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/034.txt",
+    "score": 0.5571428571428572,
+    "wordCount": 350,
+    "greenWordCount": 195,
+    "distinctWords": 179,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/018.txt",
+    "score": 0.5440613026819924,
+    "wordCount": 261,
+    "greenWordCount": 142,
+    "distinctWords": 139,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/030.txt",
+    "score": 0.5257731958762887,
+    "wordCount": 291,
+    "greenWordCount": 153,
+    "distinctWords": 151,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/024.txt",
+    "score": 0.5423728813559322,
+    "wordCount": 295,
+    "greenWordCount": 160,
+    "distinctWords": 151,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/025.txt",
+    "score": 0.5451127819548872,
+    "wordCount": 266,
+    "greenWordCount": 145,
+    "distinctWords": 155,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/031.txt",
+    "score": 0.6054794520547945,
+    "wordCount": 365,
+    "greenWordCount": 221,
+    "distinctWords": 176,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": true,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/019.txt",
+    "score": 0.546875,
+    "wordCount": 320,
+    "greenWordCount": 175,
+    "distinctWords": 164,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/027.txt",
+    "score": 0.537117903930131,
+    "wordCount": 229,
+    "greenWordCount": 123,
+    "distinctWords": 125,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/033.txt",
+    "score": 0.5335365853658537,
+    "wordCount": 328,
+    "greenWordCount": 175,
+    "distinctWords": 181,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/032.txt",
+    "score": 0.5742296918767507,
+    "wordCount": 357,
+    "greenWordCount": 205,
+    "distinctWords": 196,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/026.txt",
+    "score": 0.5533980582524272,
+    "wordCount": 206,
+    "greenWordCount": 114,
+    "distinctWords": 124,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/041.txt",
+    "score": 0.5481927710843374,
+    "wordCount": 332,
+    "greenWordCount": 182,
+    "distinctWords": 186,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/040.txt",
+    "score": 0.46226415094339623,
+    "wordCount": 212,
+    "greenWordCount": 98,
+    "distinctWords": 126,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/042.txt",
+    "score": 0.5792682926829268,
+    "wordCount": 328,
+    "greenWordCount": 190,
+    "distinctWords": 182,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/043.txt",
+    "score": 0.551094890510949,
+    "wordCount": 274,
+    "greenWordCount": 151,
+    "distinctWords": 163,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/047.txt",
+    "score": 0.5786350148367952,
+    "wordCount": 337,
+    "greenWordCount": 195,
+    "distinctWords": 201,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/046.txt",
+    "score": 0.555956678700361,
+    "wordCount": 277,
+    "greenWordCount": 154,
+    "distinctWords": 167,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/044.txt",
+    "score": 0.5369458128078818,
+    "wordCount": 203,
+    "greenWordCount": 109,
+    "distinctWords": 125,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/050.txt",
+    "score": 0.5603217158176944,
+    "wordCount": 373,
+    "greenWordCount": 209,
+    "distinctWords": 218,
+    "thresholdResults": {
+      "0.55": true,
+      "0.6": false,
+      "0.65": false
+    }
+  },
+  {
+    "file": "data/calibration/passages/unmarked/200_400/045.txt",
+    "score": 0.5290519877675841,
+    "wordCount": 327,
+    "greenWordCount": 173,
+    "distinctWords": 193,
+    "thresholdResults": {
+      "0.55": false,
+      "0.6": false,
+      "0.65": false
+    }
+  }
+]

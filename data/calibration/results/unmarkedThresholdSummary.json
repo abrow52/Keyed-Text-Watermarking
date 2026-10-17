@@ -1,0 +1,17 @@
+{
+  "0.55": {
+    "totalPassages": 150,
+    "flagged": 77,
+    "falsePositiveRate": 0.5133333333333333
+  },
+  "0.6": {
+    "totalPassages": 150,
+    "flagged": 22,
+    "falsePositiveRate": 0.14666666666666667
+  },
+  "0.65": {
+    "totalPassages": 150,
+    "flagged": 5,
+    "falsePositiveRate": 0.03333333333333333
+  }
+}
