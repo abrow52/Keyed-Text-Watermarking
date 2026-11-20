@@ -34,8 +34,6 @@ WORD_PATTERN = re.compile(r"[^\W_]+(?:'[^\W_]+)*", re.UNICODE)
 
 def normalize(word):
     return word.lower().replace("'", "").replace("’", "")
-    # normalized = original.lower().replace("'", "") #tokenizer version
-
 
 def getWord(text):
     """Return word spans without changing the original text."""
@@ -257,7 +255,6 @@ def substitute(original, learnedColors, synonymMap):
                     "start": match.start(),
                     "end": match.end(),
                     "source": source,
-                    # "replacement": preserve_case(source, str(candidate)),
                     "replacement": candidate,
                 })
                 break
@@ -390,8 +387,6 @@ def runConfig(config, passages):
         passage = passages[passageID]
 
         # Baseline eligibility is checked using the unmarked original.
-        # This is an experiment-driver baseline check, not attacker
-        # knowledge used for color learning.
         baselineResponse = api.query(passage["original"])
         baselineColor = guessColor(baselineResponse, config)
         baselineFlagged = baselineColor == 1
@@ -493,7 +488,6 @@ def runConfig(config, passages):
         "passage_results": results,
     }
 
-    # write_json(OUTPUT_DIR / f"config_{config}_summary.json", summary)
     write_json(config_dir / "summary.json", summary)
 
     print(f"Preparation requests: {summary['prepRequests']}")
