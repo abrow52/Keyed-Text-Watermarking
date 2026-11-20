@@ -1,11 +1,11 @@
 passageID,originalPath,watermarkedPath
-001,/Users/aliciabrown/Desktop/Data Security & Privacy/Keyed-Text-Watermarking/data/evaluation/passages/watermarking/100_200/001.txt,/Users/aliciabrown/Desktop/Data Security & Privacy/Keyed-Text-Watermarking/data/evaluation/passages/watermarked/001.txt
-002,/Users/aliciabrown/Desktop/Data Security & Privacy/Keyed-Text-Watermarking/data/evaluation/passages/watermarking/100_200/002.txt,/Users/aliciabrown/Desktop/Data Security & Privacy/Keyed-Text-Watermarking/data/evaluation/passages/watermarked/002.txt
-003,/Users/aliciabrown/Desktop/Data Security & Privacy/Keyed-Text-Watermarking/data/evaluation/passages/watermarking/100_200/003.txt,/Users/aliciabrown/Desktop/Data Security & Privacy/Keyed-Text-Watermarking/data/evaluation/passages/watermarked/003.txt
-004,/Users/aliciabrown/Desktop/Data Security & Privacy/Keyed-Text-Watermarking/data/evaluation/passages/watermarking/100_200/004.txt,/Users/aliciabrown/Desktop/Data Security & Privacy/Keyed-Text-Watermarking/data/evaluation/passages/watermarked/004.txt
-005,/Users/aliciabrown/Desktop/Data Security & Privacy/Keyed-Text-Watermarking/data/evaluation/passages/watermarking/100_200/005.txt,/Users/aliciabrown/Desktop/Data Security & Privacy/Keyed-Text-Watermarking/data/evaluation/passages/watermarked/005.txt
-006,/Users/aliciabrown/Desktop/Data Security & Privacy/Keyed-Text-Watermarking/data/evaluation/passages/watermarking/100_200/006.txt,/Users/aliciabrown/Desktop/Data Security & Privacy/Keyed-Text-Watermarking/data/evaluation/passages/watermarked/006.txt
-007,/Users/aliciabrown/Desktop/Data Security & Privacy/Keyed-Text-Watermarking/data/evaluation/passages/watermarking/100_200/007.txt,/Users/aliciabrown/Desktop/Data Security & Privacy/Keyed-Text-Watermarking/data/evaluation/passages/watermarked/007.txt
-008,/Users/aliciabrown/Desktop/Data Security & Privacy/Keyed-Text-Watermarking/data/evaluation/passages/watermarking/100_200/008.txt,/Users/aliciabrown/Desktop/Data Security & Privacy/Keyed-Text-Watermarking/data/evaluation/passages/watermarked/008.txt
-009,/Users/aliciabrown/Desktop/Data Security & Privacy/Keyed-Text-Watermarking/data/evaluation/passages/watermarking/100_200/009.txt,/Users/aliciabrown/Desktop/Data Security & Privacy/Keyed-Text-Watermarking/data/evaluation/passages/watermarked/009.txt
-010,/Users/aliciabrown/Desktop/Data Security & Privacy/Keyed-Text-Watermarking/data/evaluation/passages/watermarking/100_200/010.txt,/Users/aliciabrown/Desktop/Data Security & Privacy/Keyed-Text-Watermarking/data/evaluation/passages/watermarked/010.txt
+001,data/evaluation/passages/watermarking/100_200/001.txt,data/evaluation/passages/watermarked/001.txt
+002,data/evaluation/passages/watermarking/100_200/002.txt,data/evaluation/passages/watermarked/002.txt
+003,data/evaluation/passages/watermarking/100_200/003.txt,data/evaluation/passages/watermarked/003.txt
+004,data/evaluation/passages/watermarking/100_200/004.txt,data/evaluation/passages/watermarked/004.txt
+005,data/evaluation/passages/watermarking/100_200/005.txt,data/evaluation/passages/watermarked/005.txt
+006,data/evaluation/passages/watermarking/100_200/006.txt,data/evaluation/passages/watermarked/006.txt
+007,data/evaluation/passages/watermarking/100_200/007.txt,data/evaluation/passages/watermarked/007.txt
+008,data/evaluation/passages/watermarking/100_200/008.txt,data/evaluation/passages/watermarked/008.txt
+009,data/evaluation/passages/watermarking/100_200/009.txt,data/evaluation/passages/watermarked/009.txt
+010,data/evaluation/passages/watermarking/100_200/010.txt,data/evaluation/passages/watermarked/010.txt
