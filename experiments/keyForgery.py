@@ -60,8 +60,6 @@ def main():
         passages = list(csv.DictReader(file))
 
     # Configuration A provides score-mode responses without rate limiting.
-    # The key-access attack may use the key, but service outcomes are still
-    # measured through the service interface.
     harness = prepConfig("A")
     rows = []
 
