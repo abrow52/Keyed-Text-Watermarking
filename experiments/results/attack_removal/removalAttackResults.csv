@@ -1,0 +1,13 @@
+passageID,variant,startingResponse,finalResponse,queries,status
+007,substitution,"{'decision': 'flagged', 'score': 0.6667}","{'decision': 'flagged', 'score': 0.6667}",2,finished;
+007,caseChange,{'decision': 'flagged'},"{'decision': 'flagged', 'score': 0.6667}",1,not removed
+007,punctuationChange,{'decision': 'flagged'},"{'decision': 'flagged', 'score': 0.6766}",2,not removed
+007,zeroWidthInsertion,{'decision': 'flagged'},"{'decision': 'flagged', 'score': 0.7802}",3,not removed
+009,substitution,"{'decision': 'flagged', 'score': 0.6931}","{'decision': 'flagged', 'score': 0.6878}",3,finished;
+009,caseChange,{'decision': 'flagged'},"{'decision': 'flagged', 'score': 0.6931}",1,not removed
+009,punctuationChange,{'decision': 'flagged'},"{'decision': 'flagged', 'score': 0.6898}",2,not removed
+009,zeroWidthInsertion,{'decision': 'flagged'},"{'decision': 'flagged', 'score': 0.7793}",3,not removed
+010,substitution,"{'decision': 'flagged', 'score': 0.7059}","{'decision': 'flagged', 'score': 0.7059}",2,finished;
+010,caseChange,{'decision': 'flagged'},"{'decision': 'flagged', 'score': 0.7059}",1,not removed
+010,punctuationChange,{'decision': 'flagged'},"{'decision': 'flagged', 'score': 0.7059}",2,not removed
+010,zeroWidthInsertion,{'decision': 'flagged'},"{'decision': 'flagged', 'score': 0.7786}",3,not removed

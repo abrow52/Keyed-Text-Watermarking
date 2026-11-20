@@ -1,0 +1,128 @@
+{
+  "config": "B",
+  "description": "Score + decision; rate limit enabled",
+  "passageIDs": [
+    "002",
+    "003",
+    "005",
+    "007",
+    "009"
+  ],
+  "prepRequests": 100,
+  "prepRejectedRequests": 4,
+  "prepTime": 0.07424745801836252,
+  "prepSimilatedSeconds": 244.0,
+  "learnedColorCount": 95,
+  "editingRequests": 14,
+  "editingRejectedRequests": 1,
+  "totalRequests": 119,
+  "totalRejectedRequests": 5,
+  "totalTime": 0.0956864170730114,
+  "totalSimSeconds": 305.0,
+  "eligiblePassages": 5,
+  "baselineFalsePositives": 0,
+  "flaggedCandidates": 0,
+  "quality_review_csv": "/Users/aliciabrown/Desktop/Data Security & Privacy/Keyed-Text-Watermarking/experiments/results/attack_queryForgery/config_B/quality_review",
+  "passage_results": [
+    {
+      "passageID": "002",
+      "originalText": "came her mother was the chief one. She was a lovely lady, with a romantic mind and such a sweet mocking mouth. Her romantic mind was like the tiny boxes, one within the other, that come from the puzzling East, however many you discover there is always one more; and her sweet mocking mouth had one kiss on it that Wendy could never get, though there it was, perfectly conspicuous in the right-hand corner.\n\nThe way Mr. Darling won her was this: the many gentlemen who had been boys when she was a girl discovered simultaneously that they loved her, and they all ran to her house to propose to her except Mr. Darling, who took a cab and nipped in first, and so he got her. He got all of her, except the innermost box and the kiss. He never knew about the box, and in time he gave up trying for the kiss. Wendy thought Napoleon could have got it, but I can picture him trying, and then going off in a passion, slamming the door.\n\nMr. Darling used to boast to Wendy that her mother not only loved him but respected him. He was",
+      "candidateText": "appeared her mother was the chief one. She was a beautifully lady, with a romantic mind and such a sweet mocking mouth. Her romantic mind was like the little boxes, one within the other, that come from the puzzling East, however many you discover there is always one more; and her sweet mocking mouth had one kiss on it that Wendy could never get, though there it was, perfectly conspicuous in the right-hand corner.\n\nThe manner Mr. Darling won her was this: the many gentlemen which had been boys when she was a girl discovered simultaneously that they loved her, and they all ran to her house to propose to her except Mr. Darling, which took a cab and nipped in first, and so he got her. He got all of her, except the innermost box and the kiss. He never knew about the box, and in time he gave up trying for the kiss. Wendy thought Napoleon could have got it, but I can picture him trying, and then going off in a passion, slamming the door.\n\nMr. Darling used to boast to Wendy that her mother not only loved him but respected him. He was",
+      "flaggedCandidate": false,
+      "status": "candidate not flagged",
+      "availableSubs": 6,
+      "subsAttempted": 6,
+      "changedWords": 6,
+      "editingRequests": 6,
+      "editingRejectedRequests": 1,
+      "editingTime": 0.006306499941274524,
+      "editingSimSeconds": 61.0,
+      "finalResponse": {
+        "decision": "unflagged",
+        "score": 0.5505
+      },
+      "baselineFlagged": false,
+      "eligible": true
+    },
+    {
+      "passageID": "003",
+      "originalText": "CHAPTER 1\nWhy the Princess Has a Story About Her\nThere was once a little princess whose father was king over a great country full of mountains and valleys. His palace was built upon one of the mountains, and was very grand and beautiful. The princess, whose name was Irene, was born there, but she was sent soon after her birth, because her mother was not very strong, to be brought up by country people in a large house, half castle, half farmhouse, on the side of another mountain, about half-way between its base and its peak.\n\nThe princess was a sweet little creature, and at the time my story begins was about eight years old, I think, but she got older very fast. Her face was fair and pretty, with eyes like two bits of night sky, each with a star dissolved in the blue. Those eyes you would have thought must have known they came from there, so often were they turned up in that direction. The ceiling of her nursery was blue, with stars in it, as like the sky as they could make it. But I",
+      "candidateText": "CHAPTER 1\nWhy the Princess Has a Story About Her\nThere was once a little princess whose father was king over a great country full of mountains and valleys. His palace was built upon one of the mountains, and was very grand and beautiful. The princess, whose name was Irene, was born there, but she was sent soon after her birth, because her mother was not very strong, to be brought up by country people in a large house, half castle, half farmhouse, on the side of another mountain, about half-manner between its base and its peak.\n\nThe princess was a sweet little creature, and at the time my story begins was about eight years old, I think, but she got older very fast. Her face was fair and pretty, with eyes like two bits of night sky, each with a star dissolved in the blue. Those eyes you would have thought must have known they appeared from there, so often were they turned up in that direction. The ceiling of her nursery was blue, with stars in it, as like the sky as they could make it. But I",
+      "flaggedCandidate": false,
+      "status": "candidate not flagged",
+      "availableSubs": 2,
+      "subsAttempted": 2,
+      "changedWords": 2,
+      "editingRequests": 2,
+      "editingRejectedRequests": 0,
+      "editingTime": 0.002165749901905656,
+      "editingSimSeconds": 0.0,
+      "finalResponse": {
+        "decision": "unflagged",
+        "score": 0.5131
+      },
+      "baselineFlagged": false,
+      "eligible": true
+    },
+    {
+      "passageID": "005",
+      "originalText": "I do suppose she is a Papist! The French generally are,\" said Aunt Priscilla, drawing her brows in a delicate sort of frown, and sipping her tea with a spoon that had the London crown mark, and had been buried early in revolutionary times.\n\n\"Why, there were all the Huguenots who emigrated from France for the sake of worshiping God in their own way rather than that of the Pope. We Puritans did not take all the free-will,\" declared Betty spiritedly.\n\n\"You are too flippant, Betty,\" returned Aunt Priscilla severely. \"And I doubt if her father's people had much experimental religion. Then, she has been living in a very hot-bed of superstition!\"\n\n\"The cold, dreary Lincolnshire coast! I think it would take a good deal of zeal to warm me, even if it was superstition.\"\n\n\"And she was in a convent after her mother died! Yes, she is pretty sure to be a Papist. It seems rather queer that second-cousin Charles should have remembered her in his will.\"\n\n\"But Charles was his namesake and nephew, the child of his favorite sister,\" interposed Mrs",
+      "candidateText": "I do suppose she is a Papist! The French generally are,\" said Aunt Priscilla, drawing her brows in a delicate sort of frown, and sipping her tea with a spoon that had the London crown mark, and had been buried early in revolutionary times.\n\n\"Why, there were all the Huguenots which emigrated from France for the sake of worshiping God in their own manner rather than that of the Pope. We Puritans did not take all the free-will,\" declared Betty spiritedly.\n\n\"You are too flippant, Betty,\" returned Aunt Priscilla severely. \"And I doubt if her father's people had much experimental religion. Then, she has been living in a very hot-bed of superstition!\"\n\n\"The cold, dreary Lincolnshire coast! I think it would take a good deal of zeal to warm me, even if it was superstition.\"\n\n\"And she was in a convent after her mother died! Yes, she is pretty sure to be a Papist. It seems rather queer that second-cousin Charles should have remembered her in his will.\"\n\n\"But Charles was his namesake and nephew, the child of his favorite sister,\" interposed Mrs",
+      "flaggedCandidate": false,
+      "status": "candidate not flagged",
+      "availableSubs": 2,
+      "subsAttempted": 2,
+      "changedWords": 2,
+      "editingRequests": 2,
+      "editingRejectedRequests": 0,
+      "editingTime": 0.0018107080832123756,
+      "editingSimSeconds": 0.0,
+      "finalResponse": {
+        "decision": "unflagged",
+        "score": 0.4839
+      },
+      "baselineFlagged": false,
+      "eligible": true
+    },
+    {
+      "passageID": "007",
+      "originalText": "anything but the taxes eat it up. I want my hall door painted, and the cornishes,\"—Aunt Priscilla always would pronounce it that way,—\"but I mean to wait until the assessor has been round. It's the best time to paint in cool weather, too. I can't afford to pay a man for painting and then pay the city for the privilege.\"\n\nNo one controverted Mrs. Perkins. She broke off her bread in bits and sipped her tea.\n\n\"Why didn't they give her some kind of a Christian name?\" she began suddenly. \"Don't you suppose it is French for the plain, old-fashioned, sensible name of Dorothy?\"\n\nBetty laughed. \"Oh, Aunt Priscilla, it's pure Greek. Doris and Phyllis and Chloe——\"\n\n\"Phyllis and Chloe are regular nigger names,\" with the utmost disdain.\n\n\"But Greek, all the same. Ask Uncle Winthrop.\"\n\n\"Well, I shall call her Dorothy. I'm neither Greek nor Latin nor a college professor. There's no law against my being sensible, fursisee\"—which really meant \"far as I see.\" \"And the",
+      "candidateText": "anything but the taxes eat it up. I want my hall door painted, and the cornishes,\"—Aunt Priscilla always would pronounce it that manner,—\"but I mean to wait until the assessor has been round. It's the best time to paint in cool weather, too. I can't afford to pay a man for painting and then pay the city for the privilege.\"\n\nNo one controverted Mrs. Perkins. She broke off her bread in bits and sipped her tea.\n\n\"Why didn't they give her some kind of a Christian name?\" she began suddenly. \"Don't you suppose it is French for the plain, old-fashioned, sensible name of Dorothy?\"\n\nBetty laughed. \"Oh, Aunt Priscilla, it's pure Greek. Doris and Phyllis and Chloe——\"\n\n\"Phyllis and Chloe are regular nigger names,\" with the utmost disdain.\n\n\"But Greek, all the same. Ask Uncle Winthrop.\"\n\n\"Well, I shall call her Dorothy. I'm neither Greek nor Latin nor a college professor. There's no law against my being sensible, fursisee\"—which really meant \"far as I see.\" \"And the",
+      "flaggedCandidate": false,
+      "status": "candidate not flagged",
+      "availableSubs": 1,
+      "subsAttempted": 1,
+      "changedWords": 1,
+      "editingRequests": 1,
+      "editingRejectedRequests": 0,
+      "editingTime": 0.0009180840570479631,
+      "editingSimSeconds": 0.0,
+      "finalResponse": {
+        "decision": "unflagged",
+        "score": 0.5965
+      },
+      "baselineFlagged": false,
+      "eligible": true
+    },
+    {
+      "passageID": "009",
+      "originalText": "beak, the gardener’s son jumped up and shot an arrow at it. But the arrow did the bird no harm; only it dropped a golden feather from its tail, and then flew away. The golden feather was brought to the king in the morning, and all the council was called together. Everyone agreed that it was worth more than all the wealth of the kingdom: but the king said, ‘One feather is of no use to me, I must have the whole bird.’\n\nThen the gardener’s eldest son set out and thought to find the golden bird very easily; and when he had gone but a little way, he came to a wood, and by the side of the wood he saw a fox sitting; so he took his bow and made ready to shoot at it. Then the fox said, ‘Do not shoot me, for I will give you good counsel; I know what your business is, and that you want to find the golden bird. You will reach a village in the evening; and when you get there, you will see two inns opposite to",
+      "candidateText": "beak, the gardener’s son jumped up and shot an arrow at it. But the arrow did the bird no harm; only it dropped a golden feather from its tail, and then flew away. The golden feather was brought to the king in the morning, and all the council was called together. Everyone agreed that it was worth more than all the wealth of the kingdom: but the king said, ‘One feather is of no use to me, I must have the whole bird.’\n\nThen the gardener’s eldest son set out and thought to find the golden bird very easily; and when he had gone but a little manner, he appeared to a wood, and by the side of the wood he saw a fox sitting; so he took his bow and made ready to shoot at it. Then the fox said, ‘Do not shoot me, for I will give you good counsel; I know which your business is, and that you want to find the golden bird. You will reach a village in the evening; and when you get there, you will see two inns opposite to",
+      "flaggedCandidate": false,
+      "status": "candidate not flagged",
+      "availableSubs": 3,
+      "subsAttempted": 3,
+      "changedWords": 3,
+      "editingRequests": 3,
+      "editingRejectedRequests": 0,
+      "editingTime": 0.002760375151410699,
+      "editingSimSeconds": 0.0,
+      "finalResponse": {
+        "decision": "unflagged",
+        "score": 0.6349
+      },
+      "baselineFlagged": false,
+      "eligible": true
+    }
+  ]
+}
