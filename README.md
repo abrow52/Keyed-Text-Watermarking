@@ -1,7 +1,7 @@
 # Keyed-Text-Watermarking
 
 ## Setup
-- May need to setup virtual environment
+May need to setup virtual environment
  - python3 -m venv .venv
  - source .venv/bin/activate
  - To generate a secret key: python3 scripts/key.py 
