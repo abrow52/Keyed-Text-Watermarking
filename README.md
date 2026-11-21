@@ -1,9 +1,21 @@
 # Keyed-Text-Watermarking
 
+## Setup
+- May need to setup virtual environment
+ - python3 -m venv .venv
+ - source .venv/bin/activate
+
 ## How to Run
+(results will vary as the secret key will differ)
 Terminal Commands
+- To generate a secret key: python3 scripts/key.py 
 - To watermark the evaluation passages: python3 -m scripts.watermark
 - To run the detector on the unmarked passages: python3 -m scripts.detect
+- To submit a preset passage: python3 experiments/serviceHarness.py
+- To run the attacks:
+  - python3 -m experiments.runRemoval
+  - python3 -m experiments.keyForgery
+  - python3 -m experiments.queryForgery
 
 ## Data Sources
 ### Calibration Passages
