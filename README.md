@@ -8,7 +8,6 @@
 
 ## How to Run
 (results will vary as the secret key will differ)
-Terminal Commands
 - To watermark the evaluation passages: python3 -m scripts.watermark
 - To run the detector on the unmarked passages: python3 -m scripts.detect
 - To submit a preset passage: python3 experiments/serviceHarness.py
